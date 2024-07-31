@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet" />
-  </a>
-</p>
+### Skills ✨
+> [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql&theme=dark)](https://skillicons.dev)
 
 <!--
 **marbs534/marbs534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
