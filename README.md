@@ -1,5 +1,5 @@
 ### Skills ✨
-> [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql&theme=dark)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql&theme=dark)](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework)
 
 <!--
 **marbs534/marbs534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
